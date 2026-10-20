@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "园丁计划（农书）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/gardener"
+keywords:
+  - 园丁计划
+  - 系统演化
+  - 时间维度
+  - 涌现
+  - 最小完备度
+  - 涨剪交替
+  - 农书
