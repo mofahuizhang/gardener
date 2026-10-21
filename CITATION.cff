@@ -8,6 +8,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-20
 license: CC-BY-NC-4.0
+doi: "10.5281/zenodo.23478345"
 repository-code: "https://gitee.com/mofahuizhang/gardener"
 keywords:
   - 园丁计划
